@@ -7,4 +7,4 @@ Make sure to use a Gmail **App Password** for secure authentication in the backe
 ## 🚀 How to Run
 
 - Run `npm start` in `/frontend`  
-- Run `node server.js` in `/backend`
+- Run `node index.js` in `/backend`
